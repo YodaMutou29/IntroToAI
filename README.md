@@ -1,5 +1,6 @@
 # IntroToAI
-My projects from CS50's Introduction to Artificial Intelligence course on EdX.
+My projects from CS50's Introduction to Artificial Intelligence course on EdX.<br><br>
 
-Project0:<br>
-  Degrees: Implemented the shortest path function in degrees.py.
+<b>Project0</b>:<br>
+  1. Degrees: Implemented the shortest path function in degrees.py.
+  2. Tic-Tac-Toe:
